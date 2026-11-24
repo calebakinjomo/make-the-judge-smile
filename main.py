@@ -2,6 +2,7 @@
 
 Writes one line (at most 200 characters) about a small good thing that
 happened today to $MAKEFUN_OUTPUT_DIR/entry.txt, with no trailing newline.
+Intent: a small, warm moment — an unlikely friendship offered in fruit.
 """
 
 import os
